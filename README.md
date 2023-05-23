@@ -1,6 +1,4 @@
-# jogo-de-memoria
-
-
+# Jogo da Memória
 <div align="left">
 
 ![Badge em Desenvolvimento ](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge )
@@ -19,7 +17,7 @@
 <h2>💻 Descrição do Projeto</h2>
 
 <p>
-Implementação de um jogo clássico que é o  jogo de memória em que os usuários precisam combinar pares de cartas viradas para baixo. Utilizando HTML montar a estrutura da pagina ,  CSS  para estilizar as cartas  e JavaScript para controlar a lógica do jogo.
+Implementação de um jogo clássico que é o  jogo da memória em que os usuários precisam combinar pares de cartas viradas para baixo. Utilizando HTML montar a estrutura da pagina ,  CSS  para estilizar as cartas  e JavaScript para controlar a lógica do jogo.
 </p>
 
 <h2>💻Tecnologias Utilizadas</h2>
