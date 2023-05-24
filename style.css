@@ -1,0 +1,70 @@
+:root {
+    --dark-blue-300: #0A3871;
+    --dark-blue-100: #609ED4;
+    --dark-blue-400: #072B61;
+    --dark-blue-500: #052051;
+    --light-blue-100: #F3F5FC;
+    --light-blue-200: #EFF1FA;
+    --gray-400: #495057;
+    --gray-500: #343A40;
+
+
+    --roboto: 'Roboto', sans-serif;
+    --shareTech: 'Share Tech Mono', monospace;
+    --pressStart: 'Press Start 2P', cursive;
+}
+
+body {
+    background: var(--dark-blue-500);
+}
+main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.c-titulo {
+    font-family: var(--shareTech);
+    color: var(--light-blue-200);
+    font-size: 2rem;
+    margin-top: 5rem;
+    padding-left:5rem;
+    margin-bottom: 1rem;
+}
+
+.c-titulo-start {
+    font-family: var(--pressStart);
+    color: var(--light-blue-200);
+    margin-top: 8rem;
+   
+}
+
+.c-input-name {
+    font-family: var(--roboto);
+    color: var(--light-blue-200);
+    font-size: 1.5rem;
+  
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+}
+
+
+.c-btn-play{
+    width: 18rem;
+    height: 3rem;
+    font-family: var(--roboto);
+    font-size: 20px;
+    border-radius: 1.3rem;
+    cursor: pointer;
+    margin: 12px;
+    background: var(--dark-blue-300);
+    color: var(--light-blue-100);
+    border: none;
+  
+}
+
+.c-btn-play:hover{
+    background: var(--dark-blue-400);
+    color: var(--light-blue-100);
+}
