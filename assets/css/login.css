@@ -1,0 +1,71 @@
+
+.c-conteiner {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 25rem;
+    height: 28rem;
+    background: var(--dark-blue-300);
+    border-radius: 1.3rem;
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+    border: 1px solid var(--dark-blue-100);
+    border-radius: 1rem;
+    box-shadow: 8px 10px 10px rgba(0, 0, 0, 0.70);
+}
+
+.c-title {
+    font-family: var(--shareTech);
+    color: var(--light-blue-200);
+    font-size: 3rem;
+    margin-top: 2rem;
+    margin-left: 5rem;
+}
+
+.c-logo {
+    width: 15rem;
+}
+
+.c-titulo-start {
+    font-family: var(--pressStart);
+    color: var(--light-blue-200);
+    margin-top: 3rem;
+}
+
+.c-input-name {
+    width: 18rem;
+    height: 3rem;
+    color: var(--dark-blue-400);
+    font-family: var(--pressStart);
+    font-size: 18px;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    border-radius: 1.3rem;
+    text-align: center;
+}
+
+
+c-input-name::placeholder {
+    color: var(--dark-blue-400);
+    font-family: var(--pressStart);
+    font-size: 12px;
+}
+
+.c-btn-play {
+    width: 18rem;
+    height: 3rem;
+    font-family: var(--pressStart);
+    font-size: 15px;
+    margin-top: 30px;
+    background: var(--dark-blue-200);
+    color: var(--light-blue-100);
+    border-radius: 1.3rem;
+    border: 1px solid var(--dark-blue-100);
+    cursor: pointer;
+}
+
+.c-btn-play:hover {
+    background: var(--dark-blue-400);
+    color: var(--light-blue-100);
+}
