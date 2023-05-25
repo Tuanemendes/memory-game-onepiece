@@ -17,7 +17,17 @@
 <h2>💻 Descrição do Projeto</h2>
 
 <p>
-Implementação de um jogo clássico que é o  jogo da memória em que os usuários precisam combinar pares de cartas viradas para baixo. Utilizando HTML montar a estrutura da pagina ,  CSS  para estilizar as cartas  e JavaScript para controlar a lógica do jogo.
+Implementação de um jogo clássico que é o  jogo da memória em que os usuários precisam combinar pares de cartas viradas para baixo. Utilizando HTML montar a estrutura da pagina ,  CSS  para estilizar as cartas  e JavaScript para controlar a lógica do jogo.<br>
+
+Página de login inicialmente será inserido apena o nome. 
+            
+ ![image](https://github.com/Tuanemendes/memory-game-onepiece/assets/54903202/c4ce4fdf-34bf-4b22-84de-eac73770a8e1)
+          
+ após e inserção do nome será apresentada a tela do jogo.
+          
+ ![image](https://github.com/Tuanemendes/memory-game-onepiece/assets/54903202/764d5b8f-a18b-448e-b985-9797a7f9f966)
+
+
 </p>
 
 <h2>💻Tecnologias Utilizadas</h2>
