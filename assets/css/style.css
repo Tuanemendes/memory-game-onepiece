@@ -19,5 +19,9 @@ body {
     background: var(--dark-blue-500);
 }
 
-
+html, body {
+    width: 100vw; /* Define a largura do HTML e do body para ocupar toda a largura da janela de visualização */
+    height: 100vh; /* Define a altura do HTML e do body para ocupar toda a altura da janela de visualização */
+    overflow: hidden;
+  }
 
