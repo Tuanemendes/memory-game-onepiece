@@ -13,7 +13,7 @@
 }
 
 .c-title {
-    font-size:16px;
+    font-size: 16px;
     font-family: var(--pressStart);
     color: var(--dark-blue-100);
     text-shadow: 0px 2px 6px #609ED488;
@@ -31,11 +31,11 @@ main {
     margin-right: 15%;
 
 } */
-.c-header-text{
+.c-header-text {
     margin-top: 5%;
     width: 300px;
     margin-right: 20%;
-   text-align: center;
+    text-align: center;
 }
 
 .c-header-label {
@@ -43,33 +43,68 @@ main {
     font-family: var(--pressStart);
 
 }
-.c-header-input{
+
+.c-header-input {
     font-size: 16px;
     font-family: var(--roboto);
 
 }
 
-.c-grid-container {
+.c-grid-card {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     gap: 3%;
+    width: 90%;
     position: relative;
     transform: translate(0%, 10%);
+
+
 
 }
 
 .c-card {
     background-color: var(--dark-blue-100);
-    width: 100%;
-    height: 100%;
     border-radius: .5rem;
     box-shadow: 0px 2px 6px #609ED488;
     display: flex;
     align-items: center;
     justify-content: center;
+    border: 1px solid red;
 }
 
 .c-card img {
     max-width: 70%;
     max-height: 50%;
+}
+
+@media screen and (max-width: 880px) {
+    .c-grid-card {
+        width: 65%;
+    }
+
+}
+
+@media screen and (max-width: 820px) {
+    .c-grid-card {
+        width: 90%;
+    }
+
+}
+
+@media screen and (max-width: 620px) {
+    .c-grid-card {
+        width: 90%;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 2%;
+    }
+
+}
+
+@media screen and (max-width: 450px) {
+    .c-grid-card {
+        width: 40%;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 3%;
+    }
+
 }
