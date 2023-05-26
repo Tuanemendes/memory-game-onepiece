@@ -26,8 +26,9 @@ Página de login inicialmente será inserido apenas o nome.
           
  após e inserção do nome será apresentada a tela do jogo.   
  <div align="center">          
-            <img style="width: 650px; height: 500px;" src="https://github.com/Tuanemendes/memory-game-onepiece/assets/54903202/7d4955c7-e270-4976-aa84-cbd61cdcdf5c" alt="Tela Jogo">       
+            <img style="width: 650px; height: 500px;" src="https://github.com/Tuanemendes/memory-game-onepiece/assets/54903202/98c17658-51bd-47eb-a65b-5c777f07b92b" alt="Tela Jogo">       
  </div>
+
 
 
 
