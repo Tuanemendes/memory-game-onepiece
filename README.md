@@ -20,12 +20,15 @@
 Implementação de um jogo clássico que é o  jogo da memória em que os usuários precisam combinar pares de cartas viradas para baixo. Utilizando HTML montar a estrutura da página ,  CSS  para estilizar as cartas  e JavaScript para controlar a lógica do jogo.<br>
 
 Página de login inicialmente será inserido apenas o nome. 
-            
- ![image](https://github.com/Tuanemendes/memory-game-onepiece/assets/54903202/c4ce4fdf-34bf-4b22-84de-eac73770a8e1)
+<div align="center">            
+            <img style=" width: 650px; height: 400px; " src="https://github.com/Tuanemendes/memory-game-onepiece/assets/54903202/02c92940-35de-4ef7-9791-3572c03be215" alt="Tela Login">
+</div>
           
- após e inserção do nome será apresentada a tela do jogo.
-          
- ![image](https://github.com/Tuanemendes/memory-game-onepiece/assets/54903202/764d5b8f-a18b-448e-b985-9797a7f9f966)
+ após e inserção do nome será apresentada a tela do jogo.   
+ <div align="center">          
+            <img style="width: 650px; height: 500px;" src="https://github.com/Tuanemendes/memory-game-onepiece/assets/54903202/7d4955c7-e270-4976-aa84-cbd61cdcdf5c" alt="Tela Jogo">       
+ </div>
+
 
 
 </p>
