@@ -67,6 +67,13 @@ main {
     max-height: 50%;
 }
 
+.c-record {
+    margin-top: 5px;
+    font-size: 10px;
+    font-family: var(--pressStart);
+    color: var(--yellow);
+}
+
 @media screen and (max-width: 880px) {
     .c-grid-card {
         width: 65%;
