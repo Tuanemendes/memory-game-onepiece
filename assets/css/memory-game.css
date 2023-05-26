@@ -35,7 +35,6 @@ main {
 .c-header-label {
     font-size: 12px;
     font-family: var(--pressStart);
-
 }
 
 .c-header-input {
@@ -50,6 +49,7 @@ main {
     width: 90%;
     position: relative;
     transform: translate(0%, 10%);
+    perspective: 1000px;
 }
 
 .c-card {
@@ -60,12 +60,41 @@ main {
     align-items: center;
     justify-content: center;
     border: 1px solid var(--blue4);
+    transform: scale(1);
+    transform-style: preserve-3d;
+    transition: transform 0.5s;
 }
 
-.c-card img {
-    max-width: 70%;
-    max-height: 50%;
+.c-card:active {
+    transform: scale(0.98);
+    transition: transform 0.2s;
 }
+
+.c-card.flip {
+    transform: rotateY(180deg);
+}
+
+
+.c-card img {
+    max-width: 65%;
+    max-height: 65%;
+    backface-visibility: hidden;
+    transition: z-index 0.3s;
+}
+
+.c-card-front {
+    position: absolute;
+    width: 50%;
+    height: 50%;
+
+}
+
+.c-card-back {
+    z-index: -999999;
+}
+
+
+
 
 .c-record {
     margin-top: 5px;
