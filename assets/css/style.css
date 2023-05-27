@@ -5,12 +5,12 @@
     --dark-blue-100: #609ED4;
     --dark-blue-400: #072654;
     --dark-blue-500: #03122f;
- 
+
     --light-blue-200: #EFF1FA;
     --gray-400: #495057;
     --gray-500: #343A40;
 
-   
+
     --blue: #0960BD;
     --blue-dark: #0081C9;
     --blue-dark1: #5BC0F8;
@@ -40,8 +40,6 @@ body {
 html,
 body {
     width: 100vw;
-    /* Define a largura do HTML e do body para ocupar toda a largura da janela de visualização */
     height: 100vh;
-    /* Define a altura do HTML e do body para ocupar toda a altura da janela de visualização */
     overflow: hidden;
 }
