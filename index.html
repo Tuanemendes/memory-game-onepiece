@@ -24,12 +24,14 @@
         <div class="c-container">
             <img class="c-logo" src="assets/img/logo.png" alt="One Piece Logo">
             <h2 class="c-titulo-start">Login</h2>
-            <input class="c-input-name" type="text" placeholder="Name">
-            <button id="btn-start" onclick="redirectGame()" class="c-btn-play">Start Game</button>
+            <form action="memory-game.html" method="GET">
+                <input class="c-input-name" type="text" name="nome" id="name" placeholder="Name">
+                <button type="submit" id="btn-start" class="c-btn-play">Start Game</button>
+            </form>
         </div>
     </main>
     <footer>
-        <!-- <p class="c-footer">Developed by <a class="c-link" href="">@tuanemendes</a></p>" -->
+        <p class="c-footer"><a href="https://www.linkedin.com/in/tuane-mendes/"></a>Develop By Tuane</p>
     </footer>
     <script src="assets/js/script.js"></script>
 </body>

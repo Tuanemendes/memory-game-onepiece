@@ -1,3 +1,5 @@
+
+//cards
 const cards = document.querySelectorAll('.c-card');
 let cardFlipped = false;
 let blockCards = false;
@@ -14,9 +16,15 @@ let isPaused = false;
 const playPauseIcon = document.getElementById('play-pause-icon');
 const icons = ['\u25B6', '\u23F8'];
 
-function redirectGame() {
-    window.location.href = "memory-game.html";
-}
+// nome do jogador
+
+document.addEventListener('DOMContentLoaded', function () {
+    const urlParams = new URLSearchParams(window.location.search);
+    const nome = urlParams.get('nome');
+    const nomeElement = document.getElementById('name');
+    nomeElement.textContent = nome.toUpperCase();
+});
+
 
 function flipCard() {
     startTimer();
@@ -24,7 +32,6 @@ function flipCard() {
     if (blockCards || this === firstCard) return;
 
     this.classList.toggle('flip');
-    console.log(this);
 
     if (!cardFlipped) {
         cardFlipped = true;

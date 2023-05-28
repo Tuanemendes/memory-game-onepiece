@@ -34,13 +34,16 @@
 }
 
 .c-header-label {
-    font-size: 12px;
-    font-family: var(--pressStart);
+    font-size: 14px;
+    font-weight: bold;
+    font-family: var(--roboto);
+
 }
 
 .c-header-input {
-    font-size: 16px;
-    font-family: var(--roboto);
+    width: 80px;
+    font-size: 12px;
+    font-family: var(--pressStart);
 }
 
 .c-grid-card {
@@ -92,7 +95,9 @@
 .c-card.flip .c-card-front {
     opacity: 0;
 }
+.play{
 
+}
 
 
 
