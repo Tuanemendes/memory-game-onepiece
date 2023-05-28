@@ -93,12 +93,16 @@
     opacity: 0;
 }
 
-.c-record {
+
+
+
+
+/* .c-record {
     margin-top: 5px;
     font-size: 10px;
     font-family: var(--pressStart);
     color: var(--yellow);
-}
+} */
 
 /* @media screen and (max-width: 1024px) {
     .c-grid-card {
