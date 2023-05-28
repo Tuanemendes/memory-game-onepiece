@@ -41,7 +41,7 @@
 }
 
 .c-header-input {
-    width: 80px;
+    max-width: 100px;
     font-size: 12px;
     font-family: var(--pressStart);
 }

@@ -25,7 +25,6 @@ document.addEventListener('DOMContentLoaded', function () {
     nomeElement.textContent = nome.toUpperCase();
 });
 
-
 function flipCard() {
     startTimer();
     if (isPaused) return;
