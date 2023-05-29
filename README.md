@@ -21,15 +21,13 @@ Implementação de um jogo clássico que é o  jogo da memória em que os usuár
 
 Página de login inicialmente será inserido apenas o nome. 
 <div align="center">            
-            <img style=" width: 650px; height: 400px; " src="https://github.com/Tuanemendes/memory-game-onepiece/assets/54903202/02c92940-35de-4ef7-9791-3572c03be215" alt="Tela Login">
+            <img style=" width: 650px; height: 400px; " src="https://github.com/Tuanemendes/memory-game-onepiece/assets/54903202/415d023e-bc08-4672-bdd9-75dc1462f82a" alt="Tela Login">
 </div>
           
  após e inserção do nome será apresentada a tela do jogo.   
  <div align="center">          
-            <img style="width: 650px; height: 500px;" src="https://github.com/Tuanemendes/memory-game-onepiece/assets/54903202/98c17658-51bd-47eb-a65b-5c777f07b92b" alt="Tela Jogo">       
+            <img style="width: 650px; height: 500px;" src="https://github.com/Tuanemendes/memory-game-onepiece/assets/54903202/03eafeb1-af37-41dd-84d2-fd84dd1c8efc" alt="Tela Jogo">       
  </div>
-
-
 
 
 </p>
