@@ -18,18 +18,6 @@
 
 <p>
 Implementação de um jogo clássico que é o  jogo da memória em que os usuários precisam combinar pares de cartas viradas para baixo. Utilizando HTML montar a estrutura da página ,  CSS  para estilizar as cartas  e JavaScript para controlar a lógica do jogo.<br>
-
-Página de login inicialmente será inserido apenas o nome. 
-<div align="center">            
-            <img style=" width: 650px; height: 400px; " src="https://github.com/Tuanemendes/memory-game-onepiece/assets/54903202/415d023e-bc08-4672-bdd9-75dc1462f82a" alt="Tela Login">
-</div>
-          
- após e inserção do nome será apresentada a tela do jogo.   
- <div align="center">          
-            <img style="width: 650px; height: 500px;" src="https://github.com/Tuanemendes/memory-game-onepiece/assets/54903202/03eafeb1-af37-41dd-84d2-fd84dd1c8efc" alt="Tela Jogo">       
- </div>
-
-
 </p>
 
 <h2>💻Tecnologias Utilizadas</h2>
@@ -45,8 +33,9 @@ Página de login inicialmente será inserido apenas o nome.
 
 <h2>💻Detalhes do Projeto</h2>
 
-<p>
-Link para acessar a aplicação ->  [Memory Game ](https://memory-game-onepiece.vercel.app)
+Link para acessar a aplicação ->  [Memory-Game](https://memory-game-onepiece.vercel.app) 
+
+<p>            
 Página de login inicialmente será inserido apenas o nome. 
 <div align="center">            
             <img style=" width: 650px; height: 400px; " src="https://github.com/Tuanemendes/memory-game-onepiece/assets/54903202/415d023e-bc08-4672-bdd9-75dc1462f82a" alt="Tela Login">
