@@ -9,7 +9,7 @@
 
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Conteudo de Estudos](#conteudo-de-estudos)
+* [Conteudo de Estudos](#detalhes-do-projeto)
 * [Desenvolvido Por](#desenvolvido-por)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 
@@ -43,12 +43,20 @@ Página de login inicialmente será inserido apenas o nome.
 
           
 
-<h2>💻Conteudo de Estudos</h2>
+<h2>💻Detalhes do Projeto</h2>
 
 <p>
+Link para acessar a aplicação ->  [Memory Game ](https://memory-game-onepiece.vercel.app)
+Página de login inicialmente será inserido apenas o nome. 
+<div align="center">            
+            <img style=" width: 650px; height: 400px; " src="https://github.com/Tuanemendes/memory-game-onepiece/assets/54903202/415d023e-bc08-4672-bdd9-75dc1462f82a" alt="Tela Login">
+</div>
+          
+ após e inserção do nome será apresentada a tela do jogo.   
+ <div align="center">          
+            <img style="width: 650px; height: 500px;" src="https://github.com/Tuanemendes/memory-game-onepiece/assets/54903202/03eafeb1-af37-41dd-84d2-fd84dd1c8efc" alt="Tela Jogo">       
+ </div>
 
-
-   
 </p>
 
 <h2>🛠Desenvolvido Por</h2>
