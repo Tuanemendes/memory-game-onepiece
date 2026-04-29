@@ -52,8 +52,4 @@ Página de login inicialmente será inserido apenas o nome.
 
  [Tuane](https://www.linkedin.com/in/tuane-mendes/) 👩‍🎓        
 
-<h2>Pessoas Contribuidoras</h2>
 
- [Time Conquiste Sua Vaga](https://conquistesuavaga.com/em-breve) 💚  <br>
- [Conquiste Sua Vaga no Linkedin]( https://www.linkedin.com/company/conquiste-sua-vaga/?originalSubdomain=br) 💚  
- 
